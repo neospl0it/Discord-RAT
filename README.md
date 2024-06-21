@@ -40,8 +40,17 @@ To utilize the RAT, follow these steps:
 ## Defender Evasion
 This RAT is designed to evade detection by traditional antivirus software. However, it's important to acknowledge that the effectiveness of evasion techniques may vary over time as antivirus systems improve. While efforts have been made to make the RAT undetectable, it cannot be guaranteed that it will evade all antivirus solutions. It's always recommended to use such tools responsibly and legally.
 
+![image](https://github.com/f141ne0/Discord-RAT/assets/165682600/b2d10913-b34d-400b-94ba-7dca0ee75afc)
+![image](https://github.com/f141ne0/Discord-RAT/assets/165682600/62ad92a0-a646-4bf4-b776-449bc04d1710)
+
 ## Contribution
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+# Notice
+
+This is an old project, and some features are currently not working as expected. It is outdated and in need of updates. If you are interested in contributing to this project, we welcome your help! 
+
+If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. or DM me !
 
 ## License
 DAT is released under the MIT License. See the [LICENSE](https://github.com/agent-elli0t/Discord-RAT/blob/main/LICENSE) file for more details.
