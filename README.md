@@ -46,11 +46,14 @@ This RAT is designed to evade detection by traditional antivirus software. Howev
 ## Contribution
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-# Notice
-
-This is an old project, and some features are currently not working as expected. It is outdated and in need of updates. If you are interested in contributing to this project, we welcome your help! 
-
-If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. or DM me !
+> ⚠️ **NOTICE — ARCHIVED & UNMAINTAINED** ⚠️
+>
+> This is an **old project**. The code is **outdated**, many features **do not work**, and it will **not be updated or fixed**.
+>
+> - 🚫 Issues and PRs will **not** be accepted.  
+> - 🚫 Please do **not** DM asking for a working version.  
+>
+> This repository is kept online **only for historical / educational purposes**.  
 
 ## License
 DAT is released under the MIT License. See the [LICENSE](https://github.com/agent-elli0t/Discord-RAT/blob/main/LICENSE) file for more details.
