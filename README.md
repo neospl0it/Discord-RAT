@@ -43,9 +43,6 @@ This RAT is designed to evade detection by traditional antivirus software. Howev
 ![image](https://github.com/f141ne0/Discord-RAT/assets/165682600/b2d10913-b34d-400b-94ba-7dca0ee75afc)
 ![image](https://github.com/f141ne0/Discord-RAT/assets/165682600/62ad92a0-a646-4bf4-b776-449bc04d1710)
 
-## Contribution
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
 > ⚠️ **NOTICE — ARCHIVED & UNMAINTAINED** ⚠️
 >
 > This is an **old project**. The code is **outdated**, many features **do not work**, and it will **not be updated or fixed**.
